@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Leo</title>
+	</head>
+	<body>
+	    <img src="https://x1.xingassets.com/image/a_4_9_f2be697be_18982932_6/leonidas-grecos-foto.1024x1024.jpg" >
+	    <p style="font-family: Helvetica; color: #878787; font-size:40px"> <strong>Leonidas</strong>, <em>28 years old </em>,<br> <strong>male</strong> <em>from Athens</em>,<br> <em>currently</em>  <strong> in Duesseldorf</strong>.</p>
+	    <ul>
+	        <li style="font-family: Helvetica; color: black; font-size:40px">Interest:
+	                <ol style="font-family: Helvetica; color: green; font-size:20px">
+	                    <li>Design</li>
+	                    <li>Typography</li>
+	                    <li>Cinematography</li>
+	                    <li>Volleyball</li>
+	                    <li>Technology</li>
+	                    <li>Coding</li>
+	                </ol>
+	        </li>
+	        <li style="font-family: Helvetica; color: black; font-size:40px">Jobs:
+	                <ul style="font-family: Helvetica; color: green; font-size:20px">
+	                    <li>Videogrpher</li>
+	                    <li>Designer</li>
+	                    <li>Creative</li>
+	                </ul>
+	        </li>
+	        <li style="font-family: Helvetica; color: black; font-size:40px">Status:
+	                <ul style="font-family: Helvetica; color: green; font-size:20px">
+	                    <li>In a relationship</li>
+	                </ul> 
+	        </li>
+	        <li style="font-family: Helvetica; color: black; font-size:40px">Favorite Quotes:
+	                <ol style="font-family: Helvetica; color: green; font-size:20px">
+	                    <li>too weird to live,<br>too rare to die.</li>
+	                    <li>Peace & Love</li>
+	                </ol>
+	        </li>
+	        <li style="font-family: Helvetica; color: black; font-size:40px">Traveled:
+	                <ul style="font-family: Helvetica; color: green; font-size:20px">
+	                    <li>the world</li>
+	                </ul>
+	        </li>
+	    </ul>
+	</body>
+</html>
